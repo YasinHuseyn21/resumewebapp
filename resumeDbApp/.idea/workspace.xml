@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/ResumeDbAppJpaSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/ResumeDbAppJpaSpringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/impl/CountryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/impl/EmploymentHistoryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/impl/SkillDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/impl/UserSkillDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/inter/AbstractDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/inter/CountryDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/inter/EmploymentHistoryDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/inter/SkillDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/inter/UserDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/dao/inter/UserSkillDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/entity/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/entity/EmploymentHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/entity/Skill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/entity/UserSkill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/main/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbApp/src/main/java/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/impl/CountryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/impl/EmploymentHistoryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/impl/SkillDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/impl/UserSkillDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/inter/AbstractDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/inter/CountryDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/inter/EmploymentHistoryDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/inter/SkillDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/inter/UserDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/dao/inter/UserSkillDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/entity/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/entity/EmploymentHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/entity/Skill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/entity/UserSkill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/main/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/java/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDbAppN/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/com/company/panel/DetailsPanel.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/com/company/panel/DetailsPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/com/company/panel/ProfilePanel.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/com/company/panel/ProfilePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/com/company/panel/SkillPanel.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/com/company/panel/SkillPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/main/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/main/Main.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJDBC/resumeDesktopApp/src/main/java/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/dataSources/e208f9e5-deb3-490a-9f5b-014bf8bd3e8a/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/impl/CountryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/impl/EmploymentHistoryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/impl/SkillDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/impl/UserSkillDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/inter/AbstractDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/inter/CountryDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/inter/EmploymentHistoryDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/inter/SkillDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/inter/UserDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/dao/inter/UserSkillDaoInter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/entity/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/entity/EmploymentHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/entity/Skill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/entity/UserSkill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/main/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resumeDbAppJPA/resumeDbAppJPA/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KehaYxhOuToIxZszR4GDlbfFFV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Workspace/awsomeResume/resume/resumeAppByUsingJavaEE/resumeDbAppJDBC/resumeDbApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="resumeDbApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="" />
+      <created>1674341019314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674341019314</updated>
+      <workItem from="1674341020381" duration="65000" />
+      <workItem from="1674341109129" duration="60000" />
+      <workItem from="1674341189989" duration="10000" />
+      <workItem from="1674341221436" duration="38000" />
+      <workItem from="1674341275635" duration="39000" />
+      <workItem from="1674341336324" duration="46000" />
+      <workItem from="1674510142120" duration="5188000" />
+      <workItem from="1674678749319" duration="5803000" />
+      <workItem from="1674734283208" duration="30000" />
+      <workItem from="1674767545124" duration="1929000" />
+      <workItem from="1674851950414" duration="156000" />
+      <workItem from="1674852146722" duration="3496000" />
+      <workItem from="1674857023970" duration="5748000" />
+      <workItem from="1674911303964" duration="4195000" />
+      <workItem from="1674938986240" duration="1217000" />
+      <workItem from="1675716018464" duration="16000" />
+      <workItem from="1676406281947" duration="45000" />
+      <workItem from="1676407324297" duration="2505000" />
+      <workItem from="1676581109279" duration="607000" />
+      <workItem from="1676837712966" duration="423000" />
+      <workItem from="1676840767855" duration="74000" />
+      <workItem from="1676843611560" duration="913000" />
+      <workItem from="1676844554448" duration="969000" />
+      <workItem from="1677185981769" duration="3154000" />
+      <workItem from="1677361380361" duration="1000" />
+      <workItem from="1677496087544" duration="5000" />
+      <workItem from="1677615618972" duration="42000" />
+      <workItem from="1677768851889" duration="21000" />
+      <workItem from="1677795011721" duration="891000" />
+      <workItem from="1677878333496" duration="952000" />
+      <workItem from="1677881202578" duration="602000" />
+      <workItem from="1677958920164" duration="1230000" />
+      <workItem from="1677962014820" duration="15000" />
+      <workItem from="1678049337432" duration="1123000" />
+      <workItem from="1678131384034" duration="806000" />
+      <workItem from="1678313129687" duration="626000" />
+      <workItem from="1678395737128" duration="21000" />
+      <workItem from="1678826187152" duration="333000" />
+      <workItem from="1679257532979" duration="68000" />
+      <workItem from="1681065830685" duration="389000" />
+      <workItem from="1681071702351" duration="141000" />
+      <workItem from="1681113038438" duration="1848000" />
+      <workItem from="1682337947965" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
